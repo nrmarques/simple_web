@@ -1,2 +1,2 @@
 # simple_web
-Simple Web Server
+Simple OCI Web Server - Terraform
